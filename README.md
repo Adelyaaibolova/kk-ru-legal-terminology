@@ -63,9 +63,9 @@ The main inconsistencies are listed in `findings.json`.
 | `data/terms.json` | automatically extracted definition pairs (before curation) |
 | `data/results.json` | per-term counts, statuses and cases for review |
 | `data/nominal_rows.json` | occurrences of *выброс* / *сброс* used in the event/result analysis |
-| `data/annotations/review_expert1.xlsx` | flagged cases with the first (legal) expert's labels |
-| `data/annotations/iaa_sample_expert2.xlsx`, `iaa_key.json` | blind sample of 60 cases labelled by the second expert, and the key |
-| `data/annotations/adjudication.xlsx` | re-labelling of the 123 confirmed cases under the refined scheme |
+
+The expert annotations (first and second legal expert, adjudication) will be added after publication of
+the accompanying paper.
 
 The source texts are official publications of the Republic of Kazakhstan (adilet.zan.kz).
 
