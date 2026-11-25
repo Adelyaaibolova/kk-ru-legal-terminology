@@ -39,8 +39,10 @@ the Kazakh part starting with the heading `# Қазақша нұсқа`.
 ## Pilot results
 
 146 defined terms, 3,075 occurrences of the Russian terms. Excluding 26 alignment failures, the Kazakh text
-uses the term from the definition in 95.3% of occurrences (automatic). After expert review of the flagged
-cases, 123 real discrepancies remain (96.0% consistency), 99 of them terminological variants (96.8%).
+uses the term from the definition in 95.3% of occurrences (automatic). After expert review and re-labelling,
+122 real discrepancies remain (96.0% consistency): 85 derivational variants of the same root, 22 lexical
+replacements, 8 inflectional/syntactic variants and 7 paraphrases. Legal significance concentrates in
+lexical replacements (14 of 22 marked significant or unclear, vs 8 of 85 derivational variants).
 
 Evaluation against the expert annotation of the first version (209 flagged cases, 86 false alarms):
 the revised method removes or sets aside 65 of the 86 false alarms and still flags all 123 real
@@ -52,6 +54,20 @@ Most terminological variants are derivational (*шығарынды* / *шыға�
 noun is predicted by greenhouse-gas domain (OR 60), singular number (OR 6.5) and a goal phrase (OR 3.2):
 Kazakh marks the event/result distinction that the Russian nominal leaves open.
 The main inconsistencies are listed in `findings.json`.
+
+## Data
+
+| File | Content |
+|---|---|
+| `data/corpus.json` | 426 aligned articles (Russian / Kazakh), consolidated text with amendments up to the Law of 8 July 2026 No. 342-VIII |
+| `data/terms.json` | automatically extracted definition pairs (before curation) |
+| `data/results.json` | per-term counts, statuses and cases for review |
+| `data/nominal_rows.json` | occurrences of *выброс* / *сброс* used in the event/result analysis |
+| `data/annotations/review_expert1.xlsx` | flagged cases with the first (legal) expert's labels |
+| `data/annotations/iaa_sample_expert2.xlsx`, `iaa_key.json` | blind sample of 60 cases labelled by the second expert, and the key |
+| `data/annotations/adjudication.xlsx` | re-labelling of the 123 confirmed cases under the refined scheme |
+
+The source texts are official publications of the Republic of Kazakhstan (adilet.zan.kz).
 
 ## Requirements
 
