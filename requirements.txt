@@ -1,0 +1,5 @@
+pymorphy3
+openpyxl
+scipy
+statsmodels
+numpy
