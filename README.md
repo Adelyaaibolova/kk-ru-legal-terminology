@@ -3,6 +3,10 @@
 A corpus-based pilot study of how consistently the legal terms defined in the Environmental Code
 (Code of the RK of 2 January 2021 No. 400-VI) are rendered in its Kazakh version.
 
+The project is a research collaboration (since November 2026) between Adelya Aibolova (data, method,
+code) and Prof. Guldana A. Kuanaliyeva, Department of Customs, Financial and Environmental Law,
+Faculty of Law, Al-Farabi Kazakh National University (legal analysis and expert annotation).
+
 ## Pipeline
 
 | Step | Script | Output |
