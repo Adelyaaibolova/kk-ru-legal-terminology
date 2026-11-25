@@ -1,0 +1,25 @@
+Copyright (c) 2026 Adelya Aibolova. All rights reserved.
+
+This repository (source code, curated term lists, results and annotations) is made publicly
+visible for the purpose of reviewing and evaluating the research it accompanies.
+
+You may view the contents and run the code locally solely to inspect or reproduce the reported
+results.
+
+Without prior written permission from the copyright holder you may NOT:
+  - copy, modify, merge, publish, distribute, sublicense or sell the code, data or annotations,
+    in whole or in part;
+  - use them, or works derived from them, in any publication, thesis, product or service;
+  - use the data or annotations to train or evaluate machine-learning models.
+
+The expert annotations in data/annotations/ were produced in collaboration with the co-authors
+named in the accompanying publication and are covered by the same terms.
+
+The Russian and Kazakh texts of the Environmental Code of the Republic of Kazakhstan are official
+documents published at adilet.zan.kz and are not claimed by this notice.
+
+To request permission, contact: adelya.aibolova@outlook.com
+
+If you refer to this work, cite it as described in CITATION.cff.
+
+THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.

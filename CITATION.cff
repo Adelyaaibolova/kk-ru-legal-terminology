@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you refer to this work, please cite it as below."
+title: "Terminological (in)consistency in the Kazakh and Russian versions of the Environmental Code of the Republic of Kazakhstan: code and data"
+authors:
+  - family-names: Aibolova
+    given-names: Adelya
+    email: adelya.aibolova@outlook.com
+date-released: 2026-11-25
+version: 0.1.0
+repository-code: "https://github.com/Adelyaaibolova/kk-ru-legal-terminology"
+license-url: "https://github.com/Adelyaaibolova/kk-ru-legal-terminology/blob/main/LICENSE"

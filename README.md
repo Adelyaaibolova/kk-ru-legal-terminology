@@ -74,3 +74,9 @@ The source texts are official publications of the Republic of Kazakhstan (adilet
 ```
 pip install -r requirements.txt
 ```
+
+## License and citation
+
+© 2026 Adelya Aibolova. All rights reserved. The repository is public for review and reproduction of
+the reported results only; copying, reuse, redistribution or use in other work requires written
+permission (see `LICENSE`). Please cite the work as described in `CITATION.cff`.
